@@ -1,0 +1,23 @@
+.view-song-wrapper {
+    .image-wrapper {
+        img {
+            height: 400px;
+            width: 400px;
+            object-fit: cover;
+        }
+    }
+    span {
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+    .song-details{
+        // width: 500px
+    }
+    .singer-image {
+        img{
+        height: 200px;
+            width: 200px;
+            object-fit: cover;
+        }
+    }
+}
